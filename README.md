@@ -118,7 +118,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 * Source R code file `source("./plot1.R")` this will download source data,
-uncompress source data file, load only required data for 2 days 
+uncompress source data file, load only required data for 2 days,
 constructs the corresponding plot in png file `plot1.png` 
 
 ![plot of plot1](plot1.png) 
@@ -127,7 +127,7 @@ constructs the corresponding plot in png file `plot1.png`
 ### Plot 2
 
 * Source R code file `source("./plot2.R")` this will download source data,
-uncompress source data file, load only required data for 2 days 
+uncompress source data file, load only required data for 2 days, 
 constructs the corresponding plot in png file `plot2.png` 
 
 ![plot of plot2](plot2.png) 
@@ -136,7 +136,7 @@ constructs the corresponding plot in png file `plot2.png`
 ### Plot 3
 
 * Source R code file `source("./plot3.R")` this will download source data,
-uncompress source data file, load only required data for 2 days 
+uncompress source data file, load only required data for 2 days, 
 constructs the corresponding plot in png file `plot3.png` 
 
 ![plot of plot3](plot3.png) 
@@ -145,7 +145,7 @@ constructs the corresponding plot in png file `plot3.png`
 ### Plot 4
 
 * Source R code file `source("./plot4.R")` this will download source data,
-uncompress source data file, load only required data for 2 days 
+uncompress source data file, load only required data for 2 days, 
 constructs the corresponding plot in png file `plot4.png` 
 
 ![plot of plot4](plot4.png) 
